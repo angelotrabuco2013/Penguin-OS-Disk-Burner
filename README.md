@@ -5,8 +5,6 @@ Ultra Media Burner modified for use in Penguin OS
 ## Behind the scenes
 Disk Burner is developed using DnSpyEx, a fork of the now-defunct original DnSpy program, that allows you to decompile or modify .NET programs. Ultra Media Burner is made in C#, so i am eligible to modify the original executable.
 
-## What's coming soon
-v1.0.1: Property and icon updates
 
 ## UI screenshots
 ![burnfiles](https://github.com/angelotrabuco2013/Penguin-OS-Disk-Burner/assets/153839847/61f2099c-caab-4b35-965e-065df5c5a47a)
